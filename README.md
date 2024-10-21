@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=AndreasSteffensen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[trophy](https://github-profile-trophy.vercel.app/?username=AndreasSteffensen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 Here are some ideas to get you started:
